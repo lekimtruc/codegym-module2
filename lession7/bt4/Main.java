@@ -1,7 +1,5 @@
 package lession7.bt4;
 
-import lession7.bt3.Resizeable;
-
 public class Main {
     public static void main(String[] args) {
         Shape[] shapes = new Shape[3];

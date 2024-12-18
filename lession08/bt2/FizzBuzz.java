@@ -1,4 +1,4 @@
-package lession8.bt2.src;
+package lession08.bt2;
 
 public class FizzBuzz {
     public static String fizzBuzz(int number){

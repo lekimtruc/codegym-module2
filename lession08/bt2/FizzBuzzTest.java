@@ -1,5 +1,6 @@
-package lession8.bt2.src;
+package lession08.bt2;
 
+import lession08.bt2.FizzBuzz;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
